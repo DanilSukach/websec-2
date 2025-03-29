@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBowl.Domain", "BloodBowl.Domain\BloodBowl.Domain.csproj", "{E00EE978-1E34-4CFD-BBF7-190D94A0A208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBowl.Api", "BloodBowl.Api\BloodBowl.Api.csproj", "{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00EE978-1E34-4CFD-BBF7-190D94A0A208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00EE978-1E34-4CFD-BBF7-190D94A0A208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00EE978-1E34-4CFD-BBF7-190D94A0A208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00EE978-1E34-4CFD-BBF7-190D94A0A208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D1B108-769B-483A-8C0F-15D628D781C0}
+	EndGlobalSection
+EndGlobal

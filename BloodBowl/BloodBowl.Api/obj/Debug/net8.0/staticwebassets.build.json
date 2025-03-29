@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VScK84PwujtVlT4fl36OWVz6KTle4xIasDh7Xj2Mk3o=",
+  "Source": "BloodBowl.Api",
+  "BasePath": "_content/BloodBowl.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

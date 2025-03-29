@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\BloodBowl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\entities\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\entities\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\entities\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\entities\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\services\\iplayerscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\services\\iplayerscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\services\\playerscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\services\\playerscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\context\\bloodbowldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\context\\bloodbowldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.api\\bloodbowl.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{214E76A7-E2A2-4B9A-B7DD-4DC930E7BB5E}|BloodBowl.Api\\BloodBowl.Api.csproj|solutionrelative:bloodbowl.api\\bloodbowl.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Migrations\\20250321145346_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BloodBowl.Domain\\Migrations\\20250321145346_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\bloodbowl.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\bloodbowl.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|c:\\users\\admin\\source\\repos\\bloodbowl\\bloodbowl.domain\\migrations\\20250321145401_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00EE978-1E34-4CFD-BBF7-190D94A0A208}|BloodBowl.Domain\\BloodBowl.Domain.csproj|solutionrelative:bloodbowl.domain\\migrations\\20250321145401_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\GameRoom.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\GameRoom.cs",
+              "RelativeToolTip": "BloodBowl.Api\\GameRoom.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwLwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:56:09.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Services\\PlayerScoreService.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\Services\\PlayerScoreService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Services\\PlayerScoreService.cs",
+              "RelativeToolTip": "BloodBowl.Api\\Services\\PlayerScoreService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:41:07.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPlayerScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Services\\IPlayerScoreService.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\Services\\IPlayerScoreService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Services\\IPlayerScoreService.cs",
+              "RelativeToolTip": "BloodBowl.Api\\Services\\IPlayerScoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:23:34.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BloodBowlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Context\\BloodBowlDbContext.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Context\\BloodBowlDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Context\\BloodBowlDbContext.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Context\\BloodBowlDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:13:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Entities\\PlayerScore.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\PlayerScore.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Entities\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:16:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:47:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\Star.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Entities\\Star.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Entities\\Star.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Entities\\Star.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:51:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\Program.cs",
+              "RelativeToolTip": "BloodBowl.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:55:16.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\GameHub.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\GameHub.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\GameHub.cs",
+              "RelativeToolTip": "BloodBowl.Api\\GameHub.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:58:53.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\appsettings.json",
+              "RelativeToolTip": "BloodBowl.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T06:55:06.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250321145346_initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Migrations\\20250321145346_initial.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Migrations\\20250321145346_initial.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Migrations\\20250321145346_initial.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Migrations\\20250321145346_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:53:46.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BloodBowl.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\BloodBowl.Api.csproj",
+              "RelativeDocumentMoniker": "BloodBowl.Api\\BloodBowl.Api.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Api\\BloodBowl.Api.csproj",
+              "RelativeToolTip": "BloodBowl.Api\\BloodBowl.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T06:53:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250321145401_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Migrations\\20250321145401_Initial.cs",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\Migrations\\20250321145401_Initial.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\Migrations\\20250321145401_Initial.cs",
+              "RelativeToolTip": "BloodBowl.Domain\\Migrations\\20250321145401_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:54:01.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BloodBowl.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\BloodBowl.Domain.csproj",
+              "RelativeDocumentMoniker": "BloodBowl.Domain\\BloodBowl.Domain.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\BloodBowl\\BloodBowl.Domain\\BloodBowl.Domain.csproj",
+              "RelativeToolTip": "BloodBowl.Domain\\BloodBowl.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T06:46:10.722Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

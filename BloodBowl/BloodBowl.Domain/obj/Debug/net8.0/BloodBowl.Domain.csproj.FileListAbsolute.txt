@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\bin\Debug\net8.0\BloodBowl.Domain.deps.json
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\bin\Debug\net8.0\BloodBowl.Domain.dll
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\bin\Debug\net8.0\BloodBowl.Domain.pdb
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.AssemblyInfo.cs
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.dll
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\refint\BloodBowl.Domain.dll
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.pdb
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\ref\BloodBowl.Domain.dll
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\bin\Debug\net8.0\BloodBowl.Domain.runtimeconfig.json
+C:\Users\admin\source\repos\BloodBowl\BloodBowl.Domain\obj\Debug\net8.0\BloodBowl.Domain.genruntimeconfig.cache

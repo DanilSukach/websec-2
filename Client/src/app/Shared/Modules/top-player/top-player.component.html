@@ -1,0 +1,7 @@
+<h2 class="top">Топ игроков</h2>
+<ul *ngIf="playerScores.length > 0">
+  <li *ngFor="let player of playerScores">
+    <span class="name">{{ player.name }}</span>
+    <span>{{ player.starCount }}</span>
+  </li>
+</ul>

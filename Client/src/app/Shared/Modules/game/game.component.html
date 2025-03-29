@@ -1,0 +1,10 @@
+<app-error [message]="errorMessage" *ngIf="errorMessage"></app-error>
+<app-error [message]="'Комната полная'" *ngIf="info === 'full'"></app-error>
+<div class="game-container">
+  <app-register-game></app-register-game>
+  <div class="content">
+    <canvas id="gameCanvas" width="650" height="545"></canvas>
+  </div>
+  <app-top-player [playerScores]="playerScores"></app-top-player>
+</div>
+

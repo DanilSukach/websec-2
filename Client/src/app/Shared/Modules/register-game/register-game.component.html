@@ -1,0 +1,6 @@
+<div class="overlay">
+  <h2>Введите ваше имя</h2>
+  <input [(ngModel)]="playerName" placeholder="Ваше имя" />
+  <button (click)="onNameEntered()" *ngIf="!isNameEntered">Подключиться</button>
+  <button (click)="onDisconnect()" *ngIf="isNameEntered">Выйти</button>
+</div>

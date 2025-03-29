@@ -1,0 +1,15 @@
+canvas {
+    border: 5px solid  #c52b2b;
+    border-radius: 15px;
+}
+.content{
+    padding-top: 15px;
+}
+.game-container{
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+}
+

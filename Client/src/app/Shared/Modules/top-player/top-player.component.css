@@ -1,0 +1,39 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #c52b2b;
+    border-radius: 10px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #c52b2b;
+}
+
+li:first-child {
+    border-radius: 10px 10px 0 0;
+    font-weight: bold;
+    background: #d4d4d4;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+li:only-child {
+    border-radius: 10px;
+}
+
+.name{
+    padding-right: 20px;
+}
+
+.top{
+    text-align: center;
+}

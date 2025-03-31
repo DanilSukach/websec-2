@@ -48,8 +48,8 @@ public class GameRoom
         {
             Id = connectionId,
             Name = name,
-            X = new Random().Next(100, 700),
-            Y = new Random().Next(100, 500),
+            X = new Random().Next(100, 550),
+            Y = new Random().Next(100, 450),
             Color = $"#{new Random().Next(0x1000000):X6}",
             VX = 0,
             VY = 0
